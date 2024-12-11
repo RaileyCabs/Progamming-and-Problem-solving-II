@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=SortComparison
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=size\ min\ max
+comment2.target=int[]\ generateRandomArray(int,\ int,\ int)
+comment3.params=array
+comment3.target=int\ selectionSort(int[])
+comment4.params=array\ temp\ left\ right\ iterationCount
+comment4.target=int\ mergeSort(int[],\ int[],\ int,\ int,\ int)
+comment5.params=array\ temp\ left\ mid\ right\ iterationCount
+comment5.target=int\ merge(int[],\ int[],\ int,\ int,\ int,\ int)
+numComments=6
